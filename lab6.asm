@@ -30,7 +30,7 @@ main:
 	li $v0, 10
 	syscall
 	
-	#subroutine to perform factorial algorithm
+	#subroutine to perform binary conversion
 decToBin: 
 
 	#store dec to t0
