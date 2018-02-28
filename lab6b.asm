@@ -1,4 +1,5 @@
-#Program Description:	Coupon counter with a few subroutines. Needs debugging for acceptable coupons
+#Program Description:	Program calculates the total cost of items taking into account coupons for only those items which cannot exceed
+#			$10.00 or the cost of the item. 
 #Author: 		Evan Smith
 #Creation Date:		02/26/2018
 
