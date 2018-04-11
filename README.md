@@ -25,3 +25,5 @@ The structure of computers, number and character representation, word and instru
   The Datapath.
   Executing Instructions
   Control
+
+Please note that all .dwm formatted files are to be loaded into Digital Works. 
